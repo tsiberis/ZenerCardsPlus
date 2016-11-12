@@ -1,0 +1,55 @@
+Zenercards+ v0.2, by Takis Tsiberis
+
+Zener cards are used to conduct experiments for extra-sensory
+perception (ESP). Karl Zener designed the cards in the early
+1930s for experiments conducted with his colleague, para-
+psychologist J. B. Rhine (source: Wikipedia).
+
+The zener deck consists of five figures: a square, a Greek
+cross, a circle, a five-pointed star and three vertical wavy
+lines. In this game however, I added five more figures: a
+hexagon, a quadrifolium, an archimedian spiral, a rhombus
+and the Mandelbrot fractal, hence the Zenercards+ (plus)
+title. These additional cards are for the sake of the game,
+so to make it more interesting.
+
+Music is "Greensleeves Variations" by Anonymous,
+sequenced by Julio Feliz & downloaded from:
+http://wtv-zone.com/emma/baby/midis.html
+
+All sounds from:
+http://www.hark.com
+
+Math by
+   Dina Yagodich at:
+   http://www.onlinemathlearning.com/basic-trigonometry.html
+   for waves pattern
+
+   Wikipedia at:
+   http://en.wikipedia.org/wiki/Circle
+   http://en.wikipedia.org/wiki/Quadrifolium
+   http://en.wikipedia.org/wiki/Archimedean_spiral
+   http://en.wikipedia.org/wiki/Polar_coordinate_system
+
+   Ian Mallet (geometrian) at:
+   http://geometrian.com/Programs.php
+   for Mandelbrot fractal
+
+Color presentations by Kevin J. Walsh at:
+"RGB to Color Name Mapping"
+http://support.esosoft.net/counter/rgb.html
+
+Software used:
+Python, Pygame, IDLE, Geany, outRec & Audacity
+
+Supported platforms:
+Linux, Windows and hopefully The Mac.
+
+Copyright (c) 2011 Panagiotis Tsiberis
+This program is free software; you can redistribute it and / or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version
+2 of the License, or (at your option) any later version.
+
+Have fun !!!
+
